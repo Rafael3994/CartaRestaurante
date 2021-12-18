@@ -1,27 +1,51 @@
 
 
+
+body{
+    background-color: wheat;
+}
+nav{
+    background-color: wheat;
+}
+
 /* pagina Home estilo*/
 #container-home{
     width: 100%;
-    height: auto;
+    height: 100%;
 }
+
 #img-container {
     width: 100%;
-    height: 20em;
-    overflow: hidden;
-  
+    overflow: hidden;   
 }
 
 #img-container img{
-    width: 100%;
-    box-sizing: content-box;
-   
-    position:initial;
-   
-    
-    
-
+        object-fit: cover;
+        width: 100%;
+        height: 20em;
 }
+
+#color-cont{
+    background-color: tan;
+    margin:  1em;
+    padding: 2em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) inset, 0 6px 20px 0 rgba(0, 0, 0, 0.19) inset;
+}
+
+#color-cont h1{
+    font-size: 5em;
+    color: rgb(211, 168, 77);
+    text-shadow: 3px 3px #a36a35;
+    text-align: center;
+    margin: 8px auto;
+}
+
+#container-home p{
+    margin: auto;
+    padding: 2em;
+    justify-content: center;
+}
+
 
 
 
