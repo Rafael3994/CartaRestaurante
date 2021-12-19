@@ -6,6 +6,7 @@ Este proyecto trata de hacer una web para presentar un restaurante.
 
 ## Demostración
 ***
+[Ver pagina](https://saya85.github.io/proyecto-carta-restaurante/)
 
 ### HOME PAGE
 ![Home Page](assets/homePage.JPG)
