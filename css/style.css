@@ -64,7 +64,6 @@ nav {
     border:3px solid rgb(210, 140, 140) ;
    
 }
-
 .row h2{
     font-size: 2.5em;
     color: rgb(211, 168, 77);
@@ -73,6 +72,25 @@ nav {
     margin: 8px auto;
     padding-bottom: 0.5em ;
 
+}
+
+/*estilo del contatcto*/
+.container h1{
+    font-size: 5em;
+    color: rgb(211, 168, 77);
+    text-shadow: 3px 3px #a36a35;
+    text-align: center;
+    margin: 8px auto;
+}
+.color-cont2{
+    background-color: tan;
+    margin:  0 auto;
+    ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) inset, 0 6px 20px 0 rgba(0, 0, 0, 0.19) inset;
+}
+
+.color-cont2 h2{
+    text-align: center;
 }
 
 /* Da un margen de 2em a la izquierda */
@@ -93,3 +111,4 @@ img {
     height: 124px;
     /* width: 224px; */
 }
+
